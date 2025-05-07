@@ -19,5 +19,5 @@ A minimalist todo webapp built with HTML, CSS, and JavaScript. Tasks are automat
 ## Installation
 Run locally in 2 steps:
 ```bash
-git clone https://github.com/yourusername/your-repo.git
+git clone https://github.com/DenisHafi/ToDo.git
 open index.html
